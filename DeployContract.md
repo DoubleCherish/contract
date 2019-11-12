@@ -1,4 +1,4 @@
-###合约部署步骤
+### 合约部署步骤
 * 先部署tokenStore合约
 * 部署blanklistStore合约
 * 部署token合约
